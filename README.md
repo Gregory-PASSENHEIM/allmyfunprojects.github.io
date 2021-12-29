@@ -1,2 +1,2 @@
-# mysfunprojects.github.io
+# allmyfunprojects.github.io
 Root page of all my fun projects
